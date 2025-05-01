@@ -47,7 +47,7 @@ This project tracks your hand with a webcam, calculates the distance between you
 ### Software
 
 - Raspberry Pi OS (64‑bit)
-- Python 3.9+
+- Python 3.11+
 - OpenCV
 - MediaPipe
 - NumPy
@@ -56,7 +56,7 @@ This project tracks your hand with a webcam, calculates the distance between you
 
 ## 🔧 Installation & Setup
 
-Project is still incomplete, this information will come soon
+Project is still in progress, this information will be finalized soon.
 
 ---
 
